@@ -109,3 +109,13 @@ main {
    color: #6c6c6c;
 }
 
+/* Highlight section css */
+.highlight-media{
+   display: flex;
+   justify-content: center;
+   align-content: center;
+}
+.highlight-media img{
+   width: 100%;
+}
+
